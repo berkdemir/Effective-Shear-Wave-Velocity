@@ -39,5 +39,6 @@ def EFS(Ground_Type, PGV, PGV_Red, VS, PI, OCR, Eff_Pressure):
 
     return VS_Red
 
-
-EFS(Ground_Type, PGV, PGV_Red, VS, PI, OCR, Eff_Pressure)
+if __name__ == "__main__":
+    VS_Red = EFS(Ground_Type, PGV, PGV_Red, VS, PI, OCR, Eff_Pressure)
+    VS_eff = VS * VS_Red
