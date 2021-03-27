@@ -1,5 +1,5 @@
 ## Effective Shear Wave Velocity Calculation
-### Berk Demir - bdberkdemir [at] gmail.com
+** Written by: Berk Demir - bdberkdemir [at] gmail.com **
 This code will calculate effective shear wave velocity using iterative approach to determine the reduction in shear wave velocity based on the modulus reduction ratio curves by Darendeli (2001) and Schnabel (1973).
 
 Iteration is based on the following approach. (Demir, 2021 - submitted to Harding Prize)
