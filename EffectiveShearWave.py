@@ -1,4 +1,4 @@
-#  Effective Shear Wave Velocity Using Darendeli (2001) and Schnabel (1973) by Berk Demir
+#  Effective Shear Wave Velocity Using Darendeli (2001) and Schnabel (1973) by Berk Demir / https://github.com/berkdemir
 
 # INPUTS
 Ground_Type = "Soil"  # Either "Soil" or "Rock"
