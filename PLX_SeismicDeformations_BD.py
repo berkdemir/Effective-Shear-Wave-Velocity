@@ -1,5 +1,6 @@
 """
 Seismic Deformations for Plaxis by Berk Demir / https://github.com/berkdemir
+Locate this file in <PLAXIS installation folder>\pytools\input and call it from Plaxis - Expert - Run Python tool
 """
 
 
