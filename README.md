@@ -2,7 +2,7 @@
 Written by: Berk Demir - bdberkdemir [at] gmail.com
 This code will calculate effective shear wave velocity using iterative approach to determine the reduction in shear wave velocity based on the modulus reduction ratio curves by Darendeli (2001) and Schnabel (1973).
 
-Iteration is based on the following approach. (Demir, 2021 - submitted to Harding Prize)
+Iteration is based on the following approach. (Demir, 2021 - submitted to be published.)
  - Calculate seismic shear strain using reduced PGV based on the depth of tunnel and maximum shear wave velocity.
  - Ignoring any static strain, calculate the G/Gmax based on either one of the presented approaches.
  - Calculate shear modulus reduction ratio as square root of the G/Gmax.
